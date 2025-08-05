@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Gamification2</string>
+
+    <string name="my_pet">Мой питомец</string>
+
+    <string name="choose_a_pet">Выбери питомца</string>
+    <string name="pet_nobody">Питомец</string>
+    <string name="dog">Собака</string>
+    <string name="rover">Ровер</string>
+    <string name="pet_avatar_description">Аватарка питомца</string>
+
+    <string name="think_pet_name">Придумай имя</string>
+    <string name="pet_name">Имя питомца</string>
+    <string name="popular_names">Популярные имена Боня, Жужа, Джек, Шарик</string>
+    <string name="name_generation">Генерация имени</string>
+
+    <string name="close_btn">Закрыть</string>
+    <string name="save">Сохранить</string>
+
+</resources>
