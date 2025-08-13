@@ -1,0 +1,13 @@
+query GetWeatherNow(
+    $latitude: Double,
+    $longitude: Double
+){
+    weatherByPoint(
+        request: { lat: $latitude, lon: $longitude }
+    ) {
+        now {
+            temperature
+            icon(format: SVG)
+        }
+    }
+}
